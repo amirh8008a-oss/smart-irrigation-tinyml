@@ -1,4 +1,4 @@
-# smart-irrigation-tinyml
+# smart-irrigation-tinyml (Amirhossein Mohammadi)
 # سامانه آبیاری هوشمند با رزبری‌پای پیکو (TinyML)
 
 این پروژه یک سیستم هوشمند برای تشخیص نیاز آبی گیاه است که تصمیم‌گیری را مستقیماً روی برد Raspberry Pi Pico W و بدون نیاز به اینترنت انجام می‌دهد.
